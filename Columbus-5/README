@@ -1,0 +1,5 @@
+1. Download the genesis file at https://github.com/terra-money/classic-mainnet/tree/master/columbus-5 and put it in the config folder. 
+
+2. Download the Terra Classic node at https://github.com/terra-money/classic-core/releases/tag/v2.1.1 and put it in the current folder. 
+
+3. Download the data at https://quicksync.io/networks/terra.html and put it in the current folder. 
